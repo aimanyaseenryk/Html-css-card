@@ -1,0 +1,165 @@
+.one{
+width: 1200px;
+height: 600px;
+border: 1px solid white;
+background-color:white;
+margin-left: 400px;
+}
+.two{
+    margin-top: 30px;
+    margin-left: 00px;
+}
+.three{
+width:400px ;
+height: 600px;
+border: 2px solid white;
+margin-left:400px ;
+margin-top: -550px;
+background-color: white;
+
+}
+.four{
+
+color: rgb(90, 90, 243);
+margin-top: 20px;
+}
+.five{
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: 00;
+color: rgb(51, 48, 48);
+}
+.six{
+color: rgb(92, 87, 87);
+}
+.seven{
+    margin-left: 5px;
+    color: rgb(92, 87, 87);
+}
+.eight{
+    
+    margin-top: -10px;
+    color: rgb(0, 0, 0);
+}
+.nine{
+    width: 150px;
+    height: 20px;
+    border: 2px;
+    display: flex;
+gap: 10px;
+margin-left: px;
+margin-top: 20px;
+
+}
+.a{
+    width:25px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+border-radius: 360px;
+background-color: rgb(255, 2, 2);
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.b{
+    width: 25px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+    border-radius: 360px;
+    background-color:  rgb(77, 24, 148);
+}
+.c{
+    width: 25px;
+    height: 25px;
+    border: 2px solid whitesmoke;
+    border-radius: 360px;
+    background-color:  rgb(0, 0, 0);
+}
+.ten{
+
+    color: rgb(61, 61, 72);
+    margin-top: 10px;
+    }
+    .eleven{
+        width: 200px;
+        height: 40px;
+        border: 2px solid white;
+        display: flex;
+    gap: 7px;
+    
+    
+    
+    
+    }
+    .e{
+        width: 120px;
+        height: 30px;
+        border: 1px solid black;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    .f{
+        width: 120px;
+        height: 30px;
+        border: 1px solid black;
+        border-radius: 3px;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+        
+    }
+    .g{
+        width: 170px;
+        height: 30px;
+        border: 1px solid black;
+        border-radius: 3px;
+        display: flex;
+    align-items: center;
+    justify-content: center;
+        
+    }
+    .twelve{
+        width:20px;
+        height: 20px;
+        border: 2px solid rgb(10, 10, 10);
+        margin-top: 15px;
+    border-radius: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    .thirteen{
+
+        color: rgb(90, 90, 243);
+        margin-left: 30px;
+        margin-top: -40px;
+    }
+    .fourteen{
+        margin-left: 5px;
+        color: rgb(92, 87, 87);
+        margin-top: -30px;
+    }
+    .pr{
+        width: 50px;
+        height: 50px;
+        border: 1px ;
+        color: rgb(99, 94, 94);
+        
+        }
+        .fifteen{
+            width: 150px;
+            height: 35px;
+            border: 1px solid white;
+            margin-left: 70px;
+            border-radius: 5px;
+            background-color: rgb(51, 231, 51);
+            color: aliceblue;
+            
+        }
+        .ex{
+            margin-top: -50px;
+        }
+
